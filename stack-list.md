@@ -62,4 +62,4 @@
     User-api: API for user-related operations.
     Viz_service: Visualization services for data representation.
 
-This summary provides a high-level overview of each component in the "GraphDatabase" project, focusing on their specific roles and functionalities within the overall system architecture. 🚀🔍🌟
+This summary provides a high-level overview of each component in the "Synapse" project, focusing on their specific roles and functionalities within the overall system architecture. 🚀🔍🌟
